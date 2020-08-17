@@ -8,7 +8,7 @@ import com.sankuai.meituan.waimai.opensdk.vo.SystemParam;
 import java.util.List;
 
 /**
- * Created by Thomas.Liu on 2020/8/17.
+ * Created by L on 2020/8/17.
  */
 public class MyTest {
 
